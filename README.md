@@ -40,3 +40,15 @@ Sirve para añadir todas los archivos que no hemos añadido
 Luego comprobamos que se subió todo con:
 
     git status
+
+Luego del add, sigue el commit:
+
+![image](https://github.com/SergioABS-GTICS/GIT/assets/154263057/bafab20c-e4c4-4f3e-b72e-6d4574d8596d)
+
+Luego del commit, sigue el pusheo, se hará con el comando:
+
+    git push origin <name_branch>
+
+
+
+
