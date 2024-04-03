@@ -49,6 +49,14 @@ Luego del commit, sigue el pusheo, se hará con el comando:
 
     git push origin <name_branch>
 
+## Crear/Trabajar con ramas
 
+Aseguramos que estemos en el "master":
+
+![image](https://github.com/SergioABS-GTICS/GIT/assets/154263057/5546c13e-9a88-496c-87ad-d88eedb6b4ad)
+
+Luego creamos la rama con "**git branch <nombre_rama>**" y luego cambiamos a la rama con "**git checkout <nombre_rama>**":
+
+![image](https://github.com/SergioABS-GTICS/GIT/assets/154263057/84cd4f52-d963-4763-a91d-00fd77c821de)
 
 
